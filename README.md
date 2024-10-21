@@ -25,7 +25,7 @@ Esta API REST foi desenvolvida utilizando **Node.js** e **TypeScript** para gere
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/housing-finance-api.git
+git clone https://github.com/seu-usuario/api-exban.git
 cd housing-finance-api
 
 ```
