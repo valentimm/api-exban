@@ -12,5 +12,5 @@ app.use('/clients', clientRoutes);
 //app.use('/deals', dealRoutes);
 
 app.listen(3000, () => {
-  console.log('Server running on http://localhost:5432');
+  console.log('Server running on http://localhost:3000');
 });
