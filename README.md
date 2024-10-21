@@ -1,4 +1,4 @@
-# Housing Finance API - Exban Chanllenge
+# Housing Finance API - Exban Challenge
 
 ## Descrição
 Esta API REST foi desenvolvida utilizando **Node.js** e **TypeScript** para gerenciar um sistema básico de registro de clientes, imóveis e financiamentos habitacionais. Ela permite realizar operações de **CRUD** (criar, ler, atualizar e excluir) em três entidades: **clientes**, **imóveis** e **financiamentos**.
